@@ -1,0 +1,9 @@
+##gff-version 3
+chr22	synthetic	exon	1000000	1010000	.	+	.	ID=exon1;gene=GENE1
+chr22	synthetic	exon	5000000	5008000	.	-	.	ID=exon2;gene=GENE2
+chr22	synthetic	exon	12000000	12005000	.	+	.	ID=exon3;gene=GENE3
+chr22	synthetic	exon	20000000	20010000	.	-	.	ID=exon4;gene=GENE4
+chr22	synthetic	exon	30000000	30006000	.	+	.	ID=exon5;gene=GENE5
+chr22	synthetic	exon	40000000	40009000	.	-	.	ID=exon6;gene=GENE6
+chr22	synthetic	exon	45000000	45005000	.	+	.	ID=exon7;gene=GENE7
+chr22	synthetic	exon	48000000	48007000	.	-	.	ID=exon8;gene=GENE8
